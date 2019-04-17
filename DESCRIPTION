@@ -1,11 +1,19 @@
-Package: wkwscilexicon
+Package: wkwscilex
 Type: Package
-Title: WKWSCI Lexicon
-Version: 0.1.0
-Author: Wei Xiaoliang
-Maintainer: Wei Xiaoliang <weix0016@e.ntu.edu.sg>
-Description: This package provides four lexicons developed by Prof. Chris Khoo of Wee Kim Wee School of Information and Communication, Nanyang Technological University.
-License: GPL-2
+Title: WKWSCI Sentiment Lexicon
+Version: 1.1.0
+Authors@R: c(
+    person("Christopher", "Khoo", email = "assgkhoo@ntu.edu.sg", role = "aut"),
+    person("Xiaoliang", "Wei", email = "weix0016@e.ntu.edu.sg.com", role = "cre"))
+Description: WKWSCI Sentiment Lexicon v1.1 is a general-purpose sentiment lexicon,
+    based on the 12dicts common American English word lists compiled by Alan Beale.
+    The lexicon was completed at the end of 2016. The lexicon contains 29,729 words
+    tagged with 4 parts-of-speech: adjective, adverb, noun, and verb. The lexicon
+    comprises 3,187 positive words, 7,247 negative words and 19,295 neutral words.
+    WKWSCI Sentiment Lexicon v1.0 was described and compared with five existing lexicons
+    in Khoo & Johnkhan (2018). Version 1.1 includes some improvements resulting from the
+    reported study.
+License: file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1

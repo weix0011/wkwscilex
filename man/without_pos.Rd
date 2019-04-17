@@ -9,8 +9,10 @@
 without_pos
 }
 \description{
-Lexicon without part of speech is developed by Prof. Chris Khoo of
-Wee Kim Wee School of Information and Communication, Nanyang
-Technological University.
+(c) 2017, Wee Kim Wee School of Communication & Information,
+Nanyang Technological University, Singapore
+This WKWSCI Sentiment Lexicon ver 1.1 is licensed under the
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International License (http://creativecommons.org/licenses/by-nc-sa/4.0/)
 }
 \keyword{datasets}
