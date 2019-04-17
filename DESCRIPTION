@@ -3,7 +3,8 @@ Type: Package
 Title: WKWSCI Sentiment Lexicon
 Version: 1.1.0
 Authors@R: c(
-    person("Christopher", "Khoo", email = "assgkhoo@ntu.edu.sg", role = "aut"),
+    person("Christopher", "Khoo", email = "chriskhoo@pmail.ntu.edu.sg", role = "aut"),
+    person("Johnkhan", "Sathik Basha", email = "", role = "aut"),
     person("Xiaoliang", "Wei", email = "weix0016@e.ntu.edu.sg.com", role = "cre"))
 Description: WKWSCI Sentiment Lexicon v1.1 is a general-purpose sentiment lexicon,
     based on the 12dicts common American English word lists compiled by Alan Beale.
